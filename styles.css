@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+*{
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:10px;
+}
+.holder{
+   
+    padding-top: 10px;
+    padding-bottom:10px;
+    height:100vh;
+    display:flex;
+    flex-flow: row wrap;
+   align-items: baseline;
+   justify-content: space-between;
+  }
+.box{
+
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+
+    line-height: 75px;
+    font-size: 30px;
+}
